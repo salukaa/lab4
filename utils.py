@@ -21,3 +21,7 @@ def veronika():
 
 def 422():
     print (abracadabra)
+
+
+def repo():
+    print (shokoladka)
