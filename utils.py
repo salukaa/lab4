@@ -29,3 +29,8 @@ def repo():
 
 def veronika1:
     print (hello)
+
+
+
+def veronika2:
+    print (hi)
