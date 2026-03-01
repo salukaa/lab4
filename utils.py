@@ -25,3 +25,7 @@ def 422():
 
 def repo():
     print (shokoladka)
+
+
+def veronika1:
+    print (hello)
