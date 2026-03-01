@@ -18,3 +18,6 @@ def gcd(a, b):
 
 def veronika():
     print (lalalala)
+
+def 422():
+    print (abracadabra)
