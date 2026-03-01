@@ -17,20 +17,20 @@ def gcd(a, b):
 
 
 def veronika():
-    print (lalalala)
+    print ("lalalala")
 
 def 422():
-    print (abracadabra)
+    print ("abracadabra")
 
 
 def repo():
-    print (shokoladka)
+    print ("shokoladka")
 
 
 def veronika1:
-    print (hello)
+    print ("hello")
 
 
 
 def veronika2:
-    print (hi)
+    print ("hi")
