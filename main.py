@@ -10,3 +10,4 @@ print(gcd(12, 8))
 
 from  utils import veronika
 
+from utils import 422
