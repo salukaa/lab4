@@ -13,3 +13,8 @@ def gcd(a, b):
         a = b
         b = c
     return a
+
+
+
+def veronika():
+    print (lalalala)
